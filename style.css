@@ -18,6 +18,11 @@ h1{
     align:center;
 }
 
+.contentalign{
+    width:300px;
+    margin:0px auto 0px auto;
+}
+
 .highlight{
     background-color:yellow;
 }
